@@ -1,0 +1,19 @@
+*{
+    background-color: azure;
+}
+
+h1{
+    margin: 0 auto;
+    width:fit-content;
+    margin-bottom: 10px;
+}
+
+.info{
+    height: 200px;
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
